@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 800px;
+    min-width: 300px;
+}
+p{
+    color: #b8fc1c;
+    padding: 15px 0;
+    font-weight: bold;
+}
+hr{
+    border-width: 3px;
+    border-style: solid;
+}
+ul{
+    list-style: none;
+    padding: 10px;
+}
+#secondline{
+    border-width: 3px;
+    border-style: solid;
+}
+#container{
+    background-color: #601cfc;
+    border: 6px solid black;
+    max-width: 50%;
+    margin: 15px 15px 12px 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1{
+    color: white;
+    text-decoration:underline;
+    border: 4px solid black;
+    padding: 10px 0px 10px 10px;
+    margin-top: 15px;
+    max-width: 100%;
+}
+#snakeimg{
+    margin-top: 15px;
+    border: 4px solid black;
+    max-width: 100%;
+}
+#seconddiv{
+    margin: 15px 0 20px 0;
+    border: 4px solid black;
+    padding: 8px 8px 8px 4px;
+}
+
+li{
+    color: #b8fc1c;
+    font-size: 20px;
+}
+li strong{
+    color: black;
+    font-size: bold;
+}
+
